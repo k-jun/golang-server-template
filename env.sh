@@ -1,0 +1,4 @@
+export CSRF_TOKEN_HEADER="X-ECHO-CSRF-TOKEN"
+export JWT_TOKEN_HEADER="X-ECHO-JWT-TOKEN"
+export JWT_SECRET="X-ECHO-JWT-TOKEN"
+export DATABASE_URL="mysql://dena:dena@tcp(127.0.0.1:3306)/sample"
